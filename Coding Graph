@@ -41,3 +41,4 @@ class Peta:
             self.listKota[kota1].remove(kota2)
             return True
         return False
+
