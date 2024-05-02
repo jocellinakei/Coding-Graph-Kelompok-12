@@ -41,3 +41,15 @@ class Peta:
             self.listKota[kota1].remove(kota2)
             return True
         return False
+
+petaJerman = Peta()
+petaJerman.tambahkanKota("Berlin")
+petaJerman.tambahkanKota("Magdeburg")
+petaJerman.tambahkanKota("Kassel")
+petaJerman.tambahkanKota("Hannover")
+petaJerman.tambahkanKota("Bielefeld")
+petaJerman.tambahkanKota("Dortmund")
+petaJerman.tambahkanKota("Frankurt")
+petaJerman.tambahkanKota("Nurnberg")
+petaJerman.tambahkanKota("Munchen")
+petaJerman.tambahkanKota("Leipzig")
